@@ -1,0 +1,26 @@
+Correo electronico
+	rygban2001@gmail.com
+Nombre repositorio
+	AlondraMariel
+	MartinIsabel
+	MiRepositorioFlorLupe
+Direccion electronica de mi repositorio
+	https://github.com/rebeca815/MiPrimerRepositorio.git
+Creacion del repositorio
+	echo "# MiPrimerRepositorio" >> README.md
+    git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/rebeca815/MiPrimerRepositorio.git
+	git push -u origin main
+	git remote add origin https://github.com/rebeca815/MiPrimerRepositorio.git
+	git branch -M main
+	git push -u origin main
+Actualizacion del repositorio
+	git add .
+	git commit -m "first commit"
+	git push -u origin main
+Identificacion del repositorio
+	git config --global user.email "rygban2001@gmail.com"
+	git config --global user.name "Jonotla2012"
